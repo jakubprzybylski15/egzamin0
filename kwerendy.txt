@@ -1,0 +1,3 @@
+SELECT * FROM `wycieczki` WHERE dostepna >= 1;
+SELECT `nazwaPliku`, `podpis` FROM `zdjecia` ORDER BY id;
+SELECT `cel`, `cena` FROM `wycieczki` WHERE cena > 1200;
