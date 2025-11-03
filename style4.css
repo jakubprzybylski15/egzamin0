@@ -1,0 +1,30 @@
+body {
+    font-family: Helvetica;
+
+}
+
+header, footer {
+    background-color: #B3BC6D; color: white; text-align: center;
+    padding: 5px;
+
+}
+
+nav {
+    background-color: #FFFFCE; color: olive; padding-top: 10px;
+    padding-bottom: 10px; padding-left: 150px; padding-right: 150px;
+}
+
+#col1, #col3 {  
+    background-color: #E6EE9C; width: 25%; height: 450px; 
+    text-align: center;
+}
+
+#col2 {
+    background-color: #FFFFCE; width: 50%; height: 450px;
+}
+
+h2 {
+    text-align: center;
+    
+}
+
