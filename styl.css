@@ -1,0 +1,45 @@
+body {
+    font-family: 'Century', serif;
+}
+
+header {
+    text-align: center;
+    padding: 10px;
+    font-size: 32px;
+    text-decoration: solid;
+    text-shadow: 2px;
+}
+
+main {
+    float: left;
+    width: 70%;
+    height: 620px;
+    
+}
+
+aside {
+    font-family: "lucidaConsole", "Consolas", "Courier New", monospace;
+    width: 30%;
+    height: 600px;
+    padding-top: 20px;
+    font-size: 14px;
+    font-display: 1px;
+}
+
+header, footer {
+    background-color: #CCA10B;
+    color: white;
+    text-align: center;
+    padding: 5px;
+
+}
+main, aside {
+    background-color: rgb(5, 160, 88);
+    opacity: 80%;
+}
+
+h1 {
+    padding-left: 30px;
+}
+
+
